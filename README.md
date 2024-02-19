@@ -100,7 +100,7 @@ def rango_precios(datos_menu):
 #MENU
 from colorama import init, Fore, Style
 
-# Inicializar colorama
+#iniciar color
 init(autoreset=True)
 
 num=0
