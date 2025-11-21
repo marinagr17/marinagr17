@@ -1,4 +1,5 @@
-![Marina typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2000&pause=500&colors=FF69B4,FFB347,8A2BE2,00CED1&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=800&height=150&lines=✨ Marina ✨)
+![Marina typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2000&pause=500&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=800&height=150&lines=%E2%9C%A8%F0%9F%92%BB+Marina+%F0%9F%92%BB%E2%9C%A8)
+
 
 
 
