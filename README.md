@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=300&color=A3D5FF&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=800&height=155&lines=Marina)](https:/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2000&pause=500&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=800&height=150&lines=✨💻 Marina 💻✨)](https://git.io/typing-svg)
 
 
 ## 🎓 Educación
